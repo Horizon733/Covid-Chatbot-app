@@ -18,6 +18,6 @@
 * Retrofit
 
 ## Medium Tutorial Link:
-* Part 1: 
-* Part 2:
-* Part 3:
+* Part 1: https://bit.ly/3m1UMmq
+* Part 2: https://bit.ly/3h38Icd
+* Part 3: https://bit.ly/3k7lSHp
