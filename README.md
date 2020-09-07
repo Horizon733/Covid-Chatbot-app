@@ -3,6 +3,12 @@
 
 
 
+[![Github License](https://img.shields.io/github/license/horizon733/covid-chatbot-app?style=for-the-badge)](LICENSE)
+![Issues](https://img.shields.io/github/issues/horizon733/covid-chatbot-app?style=for-the-badge)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+
 
 ## ✨Features:
 * Get Corona info 
