@@ -3,7 +3,7 @@
 
 ![Poster](https://github.com/Horizon733/Covid-Chatbot-app/blob/master/Github_image.png )
 
-[![Github License](https://img.shields.io/github/license/horizon733/covid-chatbot-app?style=for-the-badge)](LICENSE)
+
 ![Issues](https://img.shields.io/github/issues/horizon733/covid-chatbot-app?style=for-the-badge)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
