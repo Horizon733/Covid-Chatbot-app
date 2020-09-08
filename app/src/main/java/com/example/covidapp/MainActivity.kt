@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
 
        val okHttpClient = OkHttpClient()
         val retrofit = Retrofit.Builder()
-            .baseUrl("http://192.168.0.105:5005/webhooks/rest/")
+            .baseUrl("http://IP Adress:5005/webhooks/rest/")
             .client(okHttpClient)
             .addConverterFactory(GsonConverterFactory.create())
             .build()
