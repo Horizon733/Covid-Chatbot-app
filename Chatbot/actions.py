@@ -39,7 +39,7 @@ class CoronaCasesInfo(Action):
                  querystring = {"format": "json", "name": country}
                  headers = {
                      'x-rapidapi-host': "covid-19-data.p.rapidapi.com",
-                     'x-rapidapi-key': "19ed115698msh2a7ce58d4de8cf8p19e4ebjsnfcb1afda1413" # you can find this api on https://rapidapi.com/Gramzivi/api/covid-19-data
+                     'x-rapidapi-key': "Your api key" # you can find this api on https://rapidapi.com/Gramzivi/api/covid-19-data
                  }
                  response = requests.get(url, headers=headers, params=querystring).json()
 
