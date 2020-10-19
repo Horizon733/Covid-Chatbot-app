@@ -51,7 +51,7 @@ class MainActivity : AppCompatActivity() {
         val date = Date(System.currentTimeMillis())
         val okHttpClient = OkHttpClient()
         val retrofit = Retrofit.Builder()
-            .baseUrl("http://192.168.0.105:5005/webhooks/rest/")
+            .baseUrl("http://IP-Address:Port/webhooks/rest/")
             .client(okHttpClient)
             .addConverterFactory(GsonConverterFactory.create())
             .build()
