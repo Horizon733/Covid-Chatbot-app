@@ -1,12 +1,19 @@
 ## Chatbot
 Some commands for Rasa
-Train: 
-run actions:
-run server(REST API):
-shell training:
+<br>Train: 
 ``` bash
 rasa train
-rasa run actions
-rasa run -m models --enable-api --endpoints endpoints.yml
-rasa shell
 ```
+<br>run actions:
+``` bash
+rasa run actions
+```
+<br>run server(REST API):
+``` bash
+rasa run -m models --enable-api --endpoints endpoints.yml
+```
+<br>shell training:
+ ``` bash
+ rasa shell
+ ```
+
