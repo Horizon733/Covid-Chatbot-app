@@ -54,7 +54,6 @@ rasa run -m models --enable-api --endpoints endpoints.yml
             .addConverterFactory(GsonConverterFactory.create())
             .build()
 ```
-- Build the app
-- Run the app on your phone either via usb connection or by building the application.
+- Build the app and run on your android smartphone
 
 
