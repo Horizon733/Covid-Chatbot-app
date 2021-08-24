@@ -1,13 +1,12 @@
-## Covid Chatbot application
-## Hi, Folks
-
-![Poster](https://github.com/Horizon733/Covid-Chatbot-app/blob/master/Github_image.png )
+<p align="center"><img src="https://github.com/Horizon733/Covid-Chatbot-app/blob/master/Github_image.png" width="70%"></p>
+<h2 align="center">Covid Chatbot application</h2>
 
 
-![Issues](https://img.shields.io/github/issues/horizon733/covid-chatbot-app?style=for-the-badge)
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+  <img src="https://forthebadge.com/images/badges/built-for-android.svg"><br>
+  <img src="https://img.shields.io/github/repo-size/horizon733/covid-chatbot-app">
+  </p>
 
 
 ## ✨Features:
